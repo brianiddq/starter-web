@@ -1,6 +1,6 @@
 # robotstxt.org/
 
 User-agent: *
-robot go Github
 
-test
+robot go Github gogo
+
